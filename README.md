@@ -13,6 +13,10 @@ in diesem Wiki findet Ihr Tutorials und HOW-TOs zum Einstieg in die Welt von Jav
       * [Faces Projekt mit Maven, Eclipse IDE und TomEE](https://github.com/BjoernWitt/JavaTutorial/wiki/02_03_02_HOW%E2%80%90TO:-Faces-Projekt-mit-Maven,-Eclipse-IDE-and-TomEE-plume)
     * [Jakarta Security](https://github.com/BjoernWitt/JavaTutorial/wiki/02_02_01_JakartaSecurity:-Einleitung)
 
+### Modulare Softwareentwicklung
+* [Modulare Softwareentwicklung](https://github.com/BjoernWitt/JavaTutorial/wiki/03_01_Modulare-Softwareentwicklung)
+  * [Modulare Softwareentwicklung: Einleitung](https://github.com/BjoernWitt/JavaTutorial/wiki/03_02_01_Modulare-Softwareentwicklung:-Einleitung)
+
 ### HOW-TOs
 * Installation der Tools zur Java-Entwicklung:
   * [HOW-TO: Installation von Java](https://github.com/BjoernWitt/JavaTutorial/wiki/99_01_HOW%E2%80%90TO:-Installation-Java-Runtime-Environment-(JRE)-und--das-Java-Development-Kit-(JDK))
